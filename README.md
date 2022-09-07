@@ -1,6 +1,6 @@
 # Cpp_Study
 ## FindFair
-![image](https://user-images.githubusercontent.com/68137693/188915694-b59af87d-c286-4cd6-84f3-e4d17e863488.png)
+<img src="https://user-images.githubusercontent.com/68137693/188915694-b59af87d-c286-4cd6-84f3-e4d17e863488.png  width="200" height="400"/>
 Win32를 이용해 만든 짝 맞추기 게임
 
 ## Tetris
