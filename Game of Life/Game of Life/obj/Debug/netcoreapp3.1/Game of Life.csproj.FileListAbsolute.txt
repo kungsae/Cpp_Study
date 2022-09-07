@@ -1,0 +1,13 @@
+F:\GamePrograming\Game of Life\Game of Life\bin\Debug\netcoreapp3.1\Game of Life.exe
+F:\GamePrograming\Game of Life\Game of Life\bin\Debug\netcoreapp3.1\Game of Life.deps.json
+F:\GamePrograming\Game of Life\Game of Life\bin\Debug\netcoreapp3.1\Game of Life.runtimeconfig.json
+F:\GamePrograming\Game of Life\Game of Life\bin\Debug\netcoreapp3.1\Game of Life.runtimeconfig.dev.json
+F:\GamePrograming\Game of Life\Game of Life\bin\Debug\netcoreapp3.1\Game of Life.dll
+F:\GamePrograming\Game of Life\Game of Life\bin\Debug\netcoreapp3.1\Game of Life.pdb
+F:\GamePrograming\Game of Life\Game of Life\obj\Debug\netcoreapp3.1\Game of Life.csprojAssemblyReference.cache
+F:\GamePrograming\Game of Life\Game of Life\obj\Debug\netcoreapp3.1\Game of Life.AssemblyInfoInputs.cache
+F:\GamePrograming\Game of Life\Game of Life\obj\Debug\netcoreapp3.1\Game of Life.AssemblyInfo.cs
+F:\GamePrograming\Game of Life\Game of Life\obj\Debug\netcoreapp3.1\Game of Life.csproj.CoreCompileInputs.cache
+F:\GamePrograming\Game of Life\Game of Life\obj\Debug\netcoreapp3.1\Game of Life.dll
+F:\GamePrograming\Game of Life\Game of Life\obj\Debug\netcoreapp3.1\Game of Life.pdb
+F:\GamePrograming\Game of Life\Game of Life\obj\Debug\netcoreapp3.1\Game of Life.genruntimeconfig.cache
