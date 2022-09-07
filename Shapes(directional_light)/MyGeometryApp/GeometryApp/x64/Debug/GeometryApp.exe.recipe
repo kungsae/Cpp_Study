@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>F:\3D\activex\Shapes(directional_light)\MyGeometryApp\x64\Debug\GeometryApp.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>F:\3D\activex\Shapes(directional_light)\MyGeometryApp\x64\Debug\Default.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>F:\3D\activex\Shapes(directional_light)\MyGeometryApp\x64\Debug\Point.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>F:\3D\activex\Shapes(directional_light)\MyGeometryApp\x64\Debug\Spot.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
